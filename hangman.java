@@ -1,3 +1,5 @@
+// Hangman by Farha Machiwala
+
 import java.util.Scanner;
 
 public class Hangman
